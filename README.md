@@ -23,7 +23,7 @@ When your index finger enters one of these zones, the program sends a correspond
 
 ```bash
 pip install opencv-python mediapipe pyserial
-
+```
 🔌 Optional: Arduino Connection
 ```
 // Определение пинов, к которым подключены выводы RGB-светодиода
