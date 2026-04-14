@@ -9,7 +9,7 @@ The screen displays three colored zones:
 - 🔴 Top-left corner — **RED**
 - 🟢 Top-right corner — **GREEN**
 - 🔵 Bottom-left corner — **BLUE**
-
+ 
 When your index finger enters one of these zones, the program sends a corresponding RGB signal (e.g., `255,0,0`) via the serial port to an external device.
 
 ## 🧠 Technologies Used
