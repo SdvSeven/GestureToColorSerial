@@ -67,3 +67,6 @@ void setColor(int red, int green, int blue) {
 
 📄 License
 MIT — free to use and modify.
+
+
+Co-authored-by: SdvSeven <ssdvseven@gmail.com>
